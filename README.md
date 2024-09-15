@@ -40,7 +40,7 @@ The following **required** functionality is completed:
 
 **lastPostedDate Column Added in Users Section**
 
-![Image](https://i.imgur.com/kqWRZZy.png)
+![Alt Text](https://i.imgur.com/kqWRZZy.png)
 
 
 ## Notes
