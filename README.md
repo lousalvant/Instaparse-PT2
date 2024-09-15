@@ -35,12 +35,12 @@ The following **required** functionality is completed:
 
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI4NXJleG02N3hhMjY5N242c2k5MmxzNm5xdWRnczd2OWtmYTM0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfSfGzJMFgx08MQw0S/giphy.gif)
 
-![Image](https://imgur.com/zcGHecU)
+![Image](https://i.imgur.com/zcGHecU.png)
 
 
 **lastPostedDate Column Added in Users Section**
 
-![Image](https://imgur.com/kqWRZZy)
+![Image](https://i.imgur.com/kqWRZZy.png)
 
 
 ## Notes
