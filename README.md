@@ -23,24 +23,24 @@ The following **required** functionality is completed:
 **Camera Demonstration**
 
 
-![GIF]()
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWowaXJza211cnhobWE1cTl6ZHIwdnhnZXJ0eXdwcGZjNDk5eG5nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm00bmXyiMVDIk4x7k/giphy.gif)
 
 
 **Blurred Images and New User's First Post Demonstration**
 
-![GIF]()
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNueG85NjN1MGY4amczNDM1eGkyc3RpaGd6Mmo5N25na3pyajBlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QcNenuMa5Bez9O12m6/giphy.gif)
 
 
-**Fetch 10 Posts Demonstration**
+**Fetch the 10 most recent photos within the last 24 hours**
 
-![GIF]()
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI4NXJleG02N3hhMjY5N242c2k5MmxzNm5xdWRnczd2OWtmYTM0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfSfGzJMFgx08MQw0S/giphy.gif)
 
-![Image]()
+![Image](https://imgur.com/zcGHecU)
 
 
 **lastPostedDate Column Added in Users Section**
 
-![Image]()
+![Image](https://imgur.com/kqWRZZy)
 
 
 ## Notes
