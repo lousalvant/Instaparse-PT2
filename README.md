@@ -20,6 +20,12 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+**Added Name and Z Number (9/19/24)**
+
+
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZnY2UxaHBzbDgxeGJweTU2dnduYm8yNXdydXB2cnZsNDBjazBtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkDFgyZBI0SZuRZdBe/giphy.gif)
+
+
 **Camera Demonstration**
 
 
